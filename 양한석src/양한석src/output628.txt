@@ -1,0 +1,11 @@
+Name Score Rank
+Hong    90    3
+ Lim    85    7
+Park    88    6
+Gong    75    8
+ Lee   100    1
+ Seo    90    3
+Jang    75    8
+Song    90    3
+ Kim    95    2
+Sung    60   10
