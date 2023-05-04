@@ -1,2 +1,4 @@
-﻿  10807.cpp
-  양한석src.vcxproj -> C:\Users\bryan\source\repos\양한석src\Debug\양한석src.exe
+﻿  review.cpp
+C:\Users\bryan\Documents\GitHub\ccpp-study\양한석src\양한석src\review.cpp(10,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\bryan\Documents\GitHub\ccpp-study\양한석src\양한석src\review.cpp(11,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  양한석src.vcxproj -> C:\Users\bryan\Documents\GitHub\ccpp-study\양한석src\Debug\양한석src.exe
